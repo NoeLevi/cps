@@ -238,7 +238,7 @@ public class ServicoBean implements Serializable {
 				ServicoBean.canal = true;
 
 				liCanal.add("Jornal Noticia");
-				liCanal.add("Jornal da tarde");
+				liCanal.add("Jornal o Pais");
 				liCanal.add("Outro");
 				ServicoBean.mudaradio = false;
 

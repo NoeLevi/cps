@@ -19,6 +19,12 @@ public class indexController {
 	public String listaSpot(){		
 		return "listarSpot.xhtml";
 	}
+	
+	@RequestMapping("/quemSomos")
+
+	public String quemSomos(){		
+		return "quemSomos.xhtml";
+	}
 	@RequestMapping("/listaUsuario")
 
 	public String listaUsuario(){		
